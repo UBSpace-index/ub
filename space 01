@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hubungi Kami | WhatsApp</title>
+  <style>
+    body{margin:0;display:flex;align-items:center;justify-content:center;height:100vh;font-family:system-ui,Segoe UI,Roboto,Arial,sans-serif;background:#0b1020;color:#e8ecf3;text-align:center}
+    .container{max-width:600px;padding:20px}
+    h1{font-size:28px;margin-bottom:12px}
+    p{font-size:16px;margin-bottom:24px;color:#9ca3af}
+    .btn{display:inline-block;padding:14px 20px;background:#10b981;color:#08131a;font-weight:700;border-radius:10px;text-decoration:none;box-shadow:0 6px 16px rgba(16,185,129,.25)}
+    .btn:hover{background:#0ea271}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hubungi kami sekarang dan klaim bns anda!</h1>
+    <p>Wasap kami dan buat ID ONG</p>
+    <a class="btn" href="https://wa.me/855718373600?text=Join%20TIKTOK%20Bonus" target="_blank" rel="noopener">WhatsApp Sekarang</a>
+  </div>
+</body>
+</html>
